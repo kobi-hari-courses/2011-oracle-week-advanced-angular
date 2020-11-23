@@ -2,7 +2,7 @@
 
 <img src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/Angular.png" data-canonical-src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/Angular.png" height="100"><img src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/RxJS.png" data-canonical-src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/RxJS.png" height="100"><img src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/Material.png" data-canonical-src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/Material.png" height="100"><img src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/Angular Material.png" data-canonical-src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/Angular Material.png" height="100"><img src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/Redux.png" data-canonical-src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/Redux.png" height="100"><img src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/NgRx.png" data-canonical-src="https://github.com/kobi2294/OracleWeek2020/blob/master/presentations/NgRx.png" height="100">
 
-# Advanced Angular @ Oracle Week 2019
+# Advanced Angular @ Oracle Week 2020
 *By Kobi Hari (20/11/2019)*
 
 This repository contains all the projects and documentation provided during the Advanced Angular session in Oracle Week 2019 convention. You can find all the projects written live, in addition to some extra material.
